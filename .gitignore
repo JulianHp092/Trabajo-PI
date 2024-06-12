@@ -1,0 +1,15 @@
+*.csv
+# Ignorar el directorio venv
+venv/
+
+# Ignorar archivos de configuración del editor
+.vscode/
+.idea/
+
+# Ignorar archivos de compilación
+*.pyc
+__pycache__/
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
